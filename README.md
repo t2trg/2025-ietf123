@@ -33,4 +33,4 @@ need an [IETF datatracker account][dt-create].
 [dt-create]: https://datatracker.ietf.org/accounts/create/
 
 [Hackathon]: https://www.ietf.org/meeting/hackathons/123-hackathon/
-
+[chairs]: mailto:t2trg-chairs@irtf.org
