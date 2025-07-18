@@ -25,7 +25,7 @@ Please contact the [chairs][] for any changes required.
 
 Other T2TRG activities
 
-* [IETF121 Hackathon, Saturday/Sunday, July 19/20, 2025][Hackathon]
+* [IETF123 Hackathon, Saturday/Sunday, July 19/20, 2025][Hackathon]
 
 To register for the Hackathon (and/or for the IETF main meeting), you
 need an [IETF datatracker account][dt-create].
