@@ -13,7 +13,7 @@ Please contact the [chairs][] for any changes required.
 |  Time | Who                  | Topic                                                                           |     |
 |-------|----------------------|---------------------------------------------------------------------------------|-----|
 | 07:30 | Chairs               | Intro and logistics                                                             |     |
-| 07:40 | Karolina Skrivankova | Why is my smarthome still dumb?                                                 |     |
+| 07:40 | Karolina Skrivankova | Why Are Smart Buildings Still Dumb?                                             |     |
 | 08:10 | Craig Rodine         | IETF IoT frameworks and standards for secure communication at the 'energy edge' |     |
 | 08:30 | Jaime Jiménez        | Agentic AI operation of IoT Systems                                             |     |
 | 08:50 | Marco Tiloca         | Software Updates with CoAP Group communication                                  | [1] |
